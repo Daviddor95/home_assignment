@@ -1,0 +1,8 @@
+phase2_solution/backend/__pycache__/
+*.pyc
+phase1_solution/.env
+phase2_solution/.venv
+phase2_solution/frontend/.venv
+phase2_solution/backend/.env
+.DS_Store
+*.log
