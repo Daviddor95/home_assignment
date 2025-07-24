@@ -1,100 +1,50 @@
-\# Home Assignment
+# Home Assignment
 
-
-
-\## Project Overview
-
-
+## Project Overview
 
 This project is organized into two main phases, each with its own implementation approach, dependencies, and setup requirements. Please refer to the phase-specific README files for detailed installation and running instructions.
 
-
-
-\## Project Structure
-
-
+## Project Structure
 
 ```
-
 project-root/
-
 ├── README.md                    # This file
-
-├── phase1\_solution/
-
+├── phase1_solution/
 │   ├── README.md               # Phase 1 setup instructions
-
-│   └── \[phase 1 source files]
-
-├── phase2\_solution/
-
+│   └── [phase 1 source files]
+├── phase2_solution/
 │   ├── README.md               # Phase 2 setup instructions
-
-│   └── \[phase 2 source files]
-
-└── \[other project files]
-
+│   └── [phase 2 source files]
+└── [other project files]
 ```
 
+## Quick Start
 
-
-\## Quick Start
-
-
-
-\### Phase 1 Solution
-
+### Phase 1 Solution
 For setup instructions:
+- Navigate to the `phase1_solution/` directory
+- Follow the detailed instructions in [`phase1_solution/README.md`](./phase1_solution/README.md)
 
-\- Navigate to the `phase1\_solution/` directory
-
-\- Follow the detailed instructions in \[`phase1\_solution/README.md`](./phase1\_solution/README.md)
-
-
-
-\### Phase 2 Solution
-
+### Phase 2 Solution
 For setup instructions:
+- Navigate to the `phase2_solution/` directory  
+- Follow the detailed instructions in [`phase2_solution/README.md`](./phase2_solution/README.md)
 
-\- Navigate to the `phase2\_solution/` directory  
-
-\- Follow the detailed instructions in \[`phase2\_solution/README.md`](./phase2\_solution/README.md)
-
-
-
-\## Prerequisites
-
-
+## Prerequisites
 
 Each phase may have different system requirements and dependencies. Please check the respective README files for:
+- Required software versions
+- System dependencies
+- Environment setup instructions
+- Configuration requirements
 
-\- Required software versions
-
-\- System dependencies
-
-\- Environment setup instructions
-
-\- Configuration requirements
-
-
-
-\## Getting Help
-
-
+## Getting Help
 
 If you encounter issues:
-
-1\. First check the phase-specific README file for troubleshooting guidance
-
-2\. Ensure you're following the correct phase's installation procedure
-
-3\. Verify that all prerequisites are properly installed
-
-
+1. First check the phase-specific README file for troubleshooting guidance
+2. Ensure you're following the correct phase's installation procedure
+3. Verify that all prerequisites are properly installed
 
 ---
 
-
-
-\*\*Note\*\*: Each phase operates independently. You typically only need to set up and run one phase at a time, not both simultaneously.
-
+**Note**: Each phase operates independently. You typically only need to set up and run one phase at a time, not both simultaneously.
